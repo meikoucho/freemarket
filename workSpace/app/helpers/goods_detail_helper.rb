@@ -1,0 +1,2 @@
+module GoodsDetailHelper
+end

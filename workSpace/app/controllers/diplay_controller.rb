@@ -1,0 +1,2 @@
+class DiplayController < ApplicationController
+end

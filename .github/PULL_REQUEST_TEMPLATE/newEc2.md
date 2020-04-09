@@ -1,6 +1,5 @@
 ## タイトル
-* Ticket1300 トップページのレスポンス早くしたい
-
+* Ticket404 newEC2
 ## 関連URL
 
 * Redmine ticket URL
@@ -34,7 +33,7 @@
 * SQL textxxxxテープル indexの変更があり (変更前、変更後)
     * 変更前 : インデックスが4つありました。
     * 変更後 : idx_active_flagが追加された
-    
+
 * 実装詳細
    * ADD : ALTER TABLE textxxxx ADD INDEX idx_active_flag(clume_name);  
    * DROP : ALTER TABLE textxxxx DROP INDEX idx_active_flag;
